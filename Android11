@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="schemas-8"?>
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+xlmns:map="http://schemas.android.com/apk/res-auto"
+android:id="http://schemas.android.com/apk/res/android"
+android:id="@+id/map=project"
+android:layout_width="match_project"
+android:layo"hybrid"
+android:name="com.google.android.maps.MapFragment"/>
